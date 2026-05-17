@@ -7,7 +7,6 @@
 
 .header__links-list {
   display: flex;
-  height: 22px;
   gap: 32px;
   list-style: circle;
 }
@@ -268,7 +267,7 @@
   font-weight: 400;
 }
 
-.about__text-first-paragraph {
+.about__text-extra-padding {
   padding-right: 4px;
 }
 
